@@ -6,7 +6,7 @@ This work was carried out at the Jet Propulsion Laboratory, California Institute
 
 Released June 10th, 2022
 
-Release Id URS307049
+Release Ids URS307049, URS309682
 
 Credit NASA/JPL-Caltech
 
