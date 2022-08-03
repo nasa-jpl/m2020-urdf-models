@@ -129,6 +129,7 @@
 			</geometry>
 		</visual>
 	</link>
+	<link name="Frame_MHS_NAVCAM"></link>
 	<joint name="MHS_MainBody_v16" type="fixed">
 		<origin xyz="0 0 0" rpy="0 -0 0"/>
 		<parent link="root"/>
@@ -195,5 +196,10 @@
 		<origin xyz="-0.032699 -0.112619 -0.0310971" rpy="-0.175269 -0.428359 0.402991"/>
 		<parent link="Body_Joint_Leg04_Axis"/>
 		<child link="Body_MHS_Leg04_v16"/>
+	</joint>
+	<joint name="MHS_NAVCAM">
+		<origin xyz="0.0 0.0616891 0.13743" rpy="-0.0027478 0.0580433 -1.57391594"/>
+		<parent link="Body_MHS_MainBody_v16"/>
+		<child link="Frame_MHS_NAVCAM"/>
 	</joint>
 </robot>
