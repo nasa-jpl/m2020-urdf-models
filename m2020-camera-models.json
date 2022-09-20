@@ -1,9 +1,9 @@
 [
 	{
-		"type": "cahvore",
 		"name": "HAZFLA",
 		"frame": "Body_Chassis",
 		"model": {
+			"type": "cahvore",
 			"C": [
 				1.103534,
 				-0.008945,
@@ -46,10 +46,10 @@
 		}
 	},
 	{
-		"type": "cahvore",
 		"name": "HAZFLB",
 		"frame": "Body_Chassis",
 		"model": {
+			"type": "cahvore",
 			"C": [
 				1.089227,
 				-0.086312,
@@ -92,10 +92,10 @@
 		}
 	},
 	{
-		"type": "cahvore",
 		"name": "HAZFRA",
 		"frame": "Body_Chassis",
 		"model": {
+			"type": "cahvore",
 			"C": [
 				1.089615,
 				0.239014,
@@ -138,10 +138,10 @@
 		}
 	},
 	{
-		"type": "cahvore",
 		"name": "HAZFRB",
 		"frame": "Body_Chassis",
 		"model": {
+			"type": "cahvore",
 			"C": [
 				1.101777,
 				0.161586,
@@ -184,10 +184,10 @@
 		}
 	},
 	{
-		"type": "cahvore",
 		"name": "HAZRL",
 		"frame": "Body_Chassis",
 		"model": {
+			"type": "cahvore",
 			"C": [
 				-1.047109,
 				0.466977,
@@ -230,10 +230,10 @@
 		}
 	},
 	{
-		"type": "cahvore",
 		"name": "HAZRR",
 		"frame": "Body_Chassis",
 		"model": {
+			"type": "cahvore",
 			"C": [
 				-1.057816,
 				-0.466472,
@@ -276,10 +276,10 @@
 		}
 	},
 	{
-		"type": "cahvore",
 		"name": "HELI_NAVCAM",
 		"frame": "Frame_MHS_NAVCAM",
 		"model": {
+			"type": "cahvore",
 			"C": [
 				0,
 				0,
@@ -322,10 +322,10 @@
 		}
 	},
 	{
-		"type": "cahvore",
 		"name": "HELI_RTE_CAM",
 		"frame": "Body_MHS_MainBody_v16",
 		"model": {
+			"type": "cahvore",
 			"C": [
 				-0.000385336,
 				0.089600896,
@@ -368,10 +368,10 @@
 		}
 	},
 	{
-		"type": "cahvor",
 		"name": "MCAM_Z_LEFT-Z026",
 		"frame": "Body_RSM_EL",
 		"model": {
+			"type": "cahvor",
 			"C": [
 				0.049868,
 				-0.123255,
@@ -410,10 +410,10 @@
 		}
 	},
 	{
-		"type": "cahvor",
 		"name": "MCAM_Z_LEFT-Z034",
 		"frame": "Body_RSM_EL",
 		"model": {
+			"type": "cahvor",
 			"C": [
 				0.033045,
 				-0.123723,
@@ -452,10 +452,10 @@
 		}
 	},
 	{
-		"type": "cahvor",
 		"name": "MCAM_Z_LEFT-Z048",
 		"frame": "Body_RSM_EL",
 		"model": {
+			"type": "cahvor",
 			"C": [
 				0.015466,
 				-0.123954,
@@ -494,10 +494,10 @@
 		}
 	},
 	{
-		"type": "cahvor",
 		"name": "MCAM_Z_LEFT-Z063",
 		"frame": "Body_RSM_EL",
 		"model": {
+			"type": "cahvor",
 			"C": [
 				0.006882,
 				-0.123977,
@@ -536,10 +536,10 @@
 		}
 	},
 	{
-		"type": "cahvor",
 		"name": "MCAM_Z_LEFT-Z079",
 		"frame": "Body_RSM_EL",
 		"model": {
+			"type": "cahvor",
 			"C": [
 				0.006504,
 				-0.123981,
@@ -578,10 +578,10 @@
 		}
 	},
 	{
-		"type": "cahvor",
 		"name": "MCAM_Z_LEFT-Z100",
 		"frame": "Body_RSM_EL",
 		"model": {
+			"type": "cahvor",
 			"C": [
 				0.016293,
 				-0.123853,
@@ -620,10 +620,10 @@
 		}
 	},
 	{
-		"type": "cahvor",
 		"name": "MCAM_Z_LEFT-Z110",
 		"frame": "Body_RSM_EL",
 		"model": {
+			"type": "cahvor",
 			"C": [
 				0.024345,
 				-0.123651,
@@ -662,10 +662,10 @@
 		}
 	},
 	{
-		"type": "cahvor",
 		"name": "MCAM_Z_RIGHT-Z026",
 		"frame": "Body_RSM_EL",
 		"model": {
+			"type": "cahvor",
 			"C": [
 				0.050256,
 				0.119328,
@@ -704,10 +704,10 @@
 		}
 	},
 	{
-		"type": "cahvor",
 		"name": "MCAM_Z_RIGHT-Z034",
 		"frame": "Body_RSM_EL",
 		"model": {
+			"type": "cahvor",
 			"C": [
 				0.03613,
 				0.119613,
@@ -746,10 +746,10 @@
 		}
 	},
 	{
-		"type": "cahvor",
 		"name": "MCAM_Z_RIGHT-Z048",
 		"frame": "Body_RSM_EL",
 		"model": {
+			"type": "cahvor",
 			"C": [
 				0.019785,
 				0.120089,
@@ -788,10 +788,10 @@
 		}
 	},
 	{
-		"type": "cahvor",
 		"name": "MCAM_Z_RIGHT-Z063",
 		"frame": "Body_RSM_EL",
 		"model": {
+			"type": "cahvor",
 			"C": [
 				0.010382,
 				0.12025,
@@ -830,10 +830,10 @@
 		}
 	},
 	{
-		"type": "cahvor",
 		"name": "MCAM_Z_RIGHT-Z079",
 		"frame": "Body_RSM_EL",
 		"model": {
+			"type": "cahvor",
 			"C": [
 				0.008773,
 				0.120336,
@@ -872,10 +872,10 @@
 		}
 	},
 	{
-		"type": "cahvor",
 		"name": "MCAM_Z_RIGHT-Z100",
 		"frame": "Body_RSM_EL",
 		"model": {
+			"type": "cahvor",
 			"C": [
 				0.016813,
 				0.120036,
@@ -914,10 +914,10 @@
 		}
 	},
 	{
-		"type": "cahvor",
 		"name": "MCAM_Z_RIGHT-Z110",
 		"frame": "Body_RSM_EL",
 		"model": {
+			"type": "cahvor",
 			"C": [
 				0.027502,
 				0.119865,
@@ -956,10 +956,10 @@
 		}
 	},
 	{
-		"type": "cahvore",
 		"name": "NAVL",
 		"frame": "Body_RSM_EL",
 		"model": {
+			"type": "cahvore",
 			"C": [
 				0.12848,
 				-0.214947,
@@ -1002,10 +1002,10 @@
 		}
 	},
 	{
-		"type": "cahvore",
 		"name": "NAVR",
 		"frame": "Body_RSM_EL",
 		"model": {
+			"type": "cahvore",
 			"C": [
 				0.130325,
 				0.209431,
@@ -1048,10 +1048,10 @@
 		}
 	},
 	{
-		"type": "cahvor",
 		"name": "SHERLOC_CAMERA",
 		"frame": "Frame_TURRET",
 		"model": {
+			"type": "cahvor",
 			"C": [
 				0.10055,
 				-0.189029,
@@ -1090,10 +1090,10 @@
 		}
 	},
 	{
-		"type": "cahv",
 		"name": "SuperCam",
 		"frame": "Body_RSM_EL",
 		"model": {
+			"type": "cahv",
 			"C": [
 				-0.174343,
 				-0.111247,
@@ -1124,10 +1124,10 @@
 		}
 	},
 	{
-		"type": "cahvor",
 		"name": "WATSON",
 		"frame": "Frame_TURRET",
 		"model": {
+			"type": "cahvor",
 			"C": [
 				-0.10717,
 				-0.293078,
