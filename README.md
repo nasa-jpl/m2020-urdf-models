@@ -45,6 +45,12 @@ There are launch files for Ingenuity, Perseverance (single and dual):
 ```
  roslaunch m2020_urdf_models dual_ingenuity_demo.launch
  ```
+ 
+ 
+### Perseverance + Ingenuity:
+
+```
+ roslaunch m2020_urdf_models perseverance_ingenuity_demo.launch
 
 # Original  README:
 
